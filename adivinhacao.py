@@ -1,7 +1,7 @@
 from random import randint, random
 
 print("***************************************")
-print("Bem vindo ao jogo de adivinhação!")
+print("Bem-vindo ao jogo de adivinhação!")
 print("***************************************")
 
 print("\n>>>Três chances para acertar<<<\n")
